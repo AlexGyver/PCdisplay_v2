@@ -30,10 +30,10 @@
 ## Материалы и компоненты
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
 Первые ссылки - в основном магазин Great Wall, вторые - WAVGAT. Покупая в одном магазине, вы экономите на доставке!
-- Arduino NANO http://ali.ski/qdQCi  http://ali.ski/le6U_R
-- Кольца (у меня 40 диодов) http://ali.ski/HmgGyB  http://ali.ski/SytU-K  http://ali.ski/vGTqIg  http://ali.ski/aaAjH
-- Фоторезисторы http://ali.ski/cTC-xi
-- Резисторы 10k http://ali.ski/_jH-S
+- Arduino NANO https://ali.ski/NnLVcE  https://ali.ski/zEFgJ
+- Кольца (у меня 40 диодов) https://ali.ski/212Lzo  https://ali.ski/wOhH6w  https://ali.ski/t88M4e  https://ali.ski/jzQbI
+- Фоторезисторы https://ali.ski/5l9fY
+- Резисторы 10k https://ali.ski/zk1lSF
 - Фото и резисторы можно купить в любом радиомагазине
 
 ## Вам скорее всего пригодится
